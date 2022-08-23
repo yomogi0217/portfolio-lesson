@@ -224,7 +224,7 @@ li {
 }
 
 input {
-  width: 400px;
+  width: 70%;
   border: solid 1px #333;
   padding: 5px;
   margin-bottom: 20px;
@@ -232,7 +232,7 @@ input {
 
 textarea {
   height: 150px;
-  width: 400px;
+  width: 70%;
   padding: 5px;
   margin-bottom: 40px;
 }
@@ -240,12 +240,11 @@ textarea {
 button {
   background-color: #333;
   color: #fff;
-  padding: 5px 40px;
+  padding: 10px 80px;
   border: solid 1px #333;
 }
 
 button:hover {
   background-color: #fff;
   color: #333;
-  padding: 5px 40px;
 }
